@@ -1,0 +1,9 @@
+[core]
+	editor = 'C:/Program\\ Files/Sublime\\ Text\\ 2/sublime_text.exe' -n -w
+[push]
+	default = upstream
+[merge]
+	conflictstyle = diff3
+[user]
+	email = aditymatturi@gmail.com
+	name = royal
